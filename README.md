@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/1000ethhomepage/1000ethhomepage.github.io) 
+
 # The 1000 Ξ homepage
 
 The web front-end for the 1000 Ξ homepage, a DApp on Ethereum.
